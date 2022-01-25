@@ -91,4 +91,4 @@ The following package/library versions were used and hence confirmed at least.
 ## Log  
 Last update on Jan 24, 2022  
 * 2022-01-20 The repository was generated.  
-* 2022-01-24 The Jupyter Notebooks (from 01 to 09) were uploaded.  
+* 2022-01-24 The Jupyter Notebooks (from code-01 to code-09) were uploaded.  
