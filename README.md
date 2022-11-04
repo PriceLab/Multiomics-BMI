@@ -175,6 +175,6 @@ The following package/library versions were used and hence confirmed at least.
 
 ## Log  
 Last update on Nov 3, 2022  
-* 2022-01-20 The repository was generated.  
-* 2022-01-24 The Jupyter Notebooks (from code-01 to code-09) were uploaded.  
-* 2022-11-03 Based on the revised manuscript, all the Jupyter Notebooks were updated. (forced update...)  
+* 2022-01-20 Generated this repository on GitHub.  
+* 2022-01-24 Uploaded 9 Jupyter Notebooks, which were used for the preprint.  
+* 2022-11-03 Uploaded 24 Jupyter Notebooks, which were used for the revised manuscript. (forced update...)  
