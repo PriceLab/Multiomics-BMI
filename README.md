@@ -2,15 +2,18 @@
 
 This repository includes the code used in our multiomics BMI study.  
 
+**Multiomic signatures of body mass index identify heterogeneous health phenotypes and responses to a lifestyle intervention.**  
+Kengo Watanabe, Tomasz Wilmanski, Christian Diener, John C. Earls, Anat Zimmer, Briana Lincoln, Jennifer J. Hadlock, Jennifer C. Lovejoy, Sean M. Gibbons, Andrew T. Magis, Leroy Hood, Nathan D. Price, and Noa Rappaport.  
+*Nat. Med.* 2023, DOI: https://doi.org/10.1038/s41591-023-02248-0
 > Preprint version:  
-> **Multiomic investigations of Body Mass Index reveal heterogeneous trajectories in response to a lifestyle intervention.**  
-> Kengo Watanabe, Tomasz Wilmanski, Christian Diener, Anat Zimmer, Briana Lincoln, Jennifer J. Hadlock, Jennifer C. Lovejoy, Sean Gibbons, Andrew T. Magis, Leroy Hood, Nathan D. Price, and Noa Rappaport.  
-> *medRxiv*, DOI: https://doi.org/10.1101/2022.01.20.22269601  
+> **Multiomic Body Mass Index signatures in blood reveal clinically relevant population heterogeneity and variable responses to a healthy lifestyle intervention.**  
+> Kengo Watanabe, Tomasz Wilmanski, Christian Diener, John C. Earls, Anat Zimmer, Briana Lincoln, Jennifer J. Hadlock, Jennifer C. Lovejoy, Sean M. Gibbons, Andrew T. Magis, Leroy Hood, Nathan D. Price, and Noa Rappaport.  
+> *medRxiv* 2022, DOI: https://doi.org/10.1101/2022.01.20.22269601  
 
 Correspondence to Noa Rappaport (noa.rappaport@isbscience.org).  
 
 ## Code overview  
-> The below figure numbers correspond to the current manuscript version.  
+> The below figure numbers correspond to the latest preprint version, which are basically same with the paper version (i.e., please regard Supplementary Figure as Extended Data Figure).  
 
 ### 1. Code01_BMI-LASSO_Arivale-baseline.ipynb  
 This Jupyter Notebook (with Python 3 kernel) generated the LASSO linear regression models for predicting BMI (biological BMI) from each of the Arivale baseline blood omic datasets, and calculated the testing (hold-out) set-derived BMI predictions for the Arivale cohort.  
@@ -174,7 +177,8 @@ The following package/library versions were used and hence confirmed at least.
 * circlize (version 0.4.15)  
 
 ## Log  
-Last update on Nov 3, 2022  
+Last update on Mar 29, 2023  
 * 2022-01-20 Generated this repository on GitHub.  
 * 2022-01-24 Uploaded 9 Jupyter Notebooks, which were used for the preprint.  
 * 2022-11-03 Uploaded 24 Jupyter Notebooks, which were used for the revised manuscript. (forced update...)  
+* 2023-03-29 Updated README.
