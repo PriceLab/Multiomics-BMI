@@ -8,7 +8,7 @@ Kengo Watanabe, Tomasz Wilmanski, Christian Diener, John C. Earls, Anat Zimmer, 
 > Preprint version:  
 > **Multiomic Body Mass Index signatures in blood reveal clinically relevant population heterogeneity and variable responses to a healthy lifestyle intervention.**  
 > Kengo Watanabe, Tomasz Wilmanski, Christian Diener, John C. Earls, Anat Zimmer, Briana Lincoln, Jennifer J. Hadlock, Jennifer C. Lovejoy, Sean M. Gibbons, Andrew T. Magis, Leroy Hood, Nathan D. Price, and Noa Rappaport.  
-> *medRxiv* 2022, DOI: https://doi.org/10.1101/2022.01.20.22269601  
+> *medRxiv* 2022.01.20.22269601 (2022), DOI: https://doi.org/10.1101/2022.01.20.22269601  
 
 Correspondence to Noa Rappaport (noa.rappaport@isbscience.org).  
 
@@ -182,4 +182,4 @@ Last update on Jul 1, 2023
 * 2022-01-24 Uploaded 9 Jupyter Notebooks, which were used for the preprint.  
 * 2022-11-03 Uploaded 24 Jupyter Notebooks, which were used for the revised manuscript. (forced update...)  
 * 2023-03-29 Updated README.  
-* 2023-07-01 Updated README and relseased for DOI.  
+* 2023-07-01 Updated README and released the current version for DOI.  
