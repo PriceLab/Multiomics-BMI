@@ -177,9 +177,10 @@ The following package/library versions were used and hence confirmed at least.
 * circlize (version 0.4.15)  
 
 ## Log  
-Last update on Jul 1, 2023  
+Last update on Jul 6, 2023  
 * 2022-01-20 Generated this repository on GitHub.  
 * 2022-01-24 Uploaded 9 Jupyter Notebooks, which were used for the preprint.  
 * 2022-11-03 Uploaded 24 Jupyter Notebooks, which were used for the revised manuscript. (forced update...)  
 * 2023-03-29 Updated README.  
 * 2023-07-01 Updated README and released the current version for DOI.  
+* 2023-07-06 Corrected a comment in Code12, and updated README.  
